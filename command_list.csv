@@ -1,0 +1,414 @@
+    1  sudo nvram AutoBoot=%00
+    2  sudo nvram AutoBoot=%00
+    3  AutoBoot=%00
+    4  sudo nvram AutoBoot=%00
+    5  sudo nvram AutoBoot=%00
+    6  git --version
+    7  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    8  git --version
+    9  node --version
+   10  node --version
+   11  node
+   12  node
+   13  .exit
+   14  node
+   15  node
+   16  node
+   17  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   18  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> /Users/sergeyalexandrovich/.zprofile
+   19  echo 'eval "$(/opt/homebrew/bin/brew shellenv)"'
+   20  brew doctor
+   21  brew --help
+   22  brew help
+   23  brew install cmatrix
+   24  cmatrix
+   25  $ brew install git
+   26  brew install git
+   27  brew info git
+   28  brew cmatrix
+   29  cmatrix
+   30  git push
+   31  git pull
+   32  git
+   33  node-v
+   34  node -v
+   35  ifconfig
+   36  node -v
+   37  npm install
+   38  npm -v
+   39  npm start
+   40  npm install
+   41  npm delete
+   42  nmp uninstall
+   43  npm npm install
+   44  npm install
+   45  npm install
+   46  npm start
+   47  npm start
+   48  npm start
+   49  npm start
+   50  nmp start
+   51  npm start
+   52  npm start
+   53  npm start
+   54  npm start
+   55  npm start
+   56  npm start
+   57  npm start
+   58  npm start
+   59  npm start
+   60  nmp start
+   61  npm start
+   62  npm start
+   63  npm start
+   64  npm start
+   65  npm start
+   66  npm start
+   67  npm start
+   68  nmp start
+   69  npm start
+   70  npm start
+   71  npm start
+   72  npm start
+   73  npm start
+   74  nps stop
+   75  nps exit
+   76  npm stop
+   77  npm exit
+   78  npm help
+   79  npm help
+   80  npm stop
+   81  node
+   82  cd/Application
+   83  cd/Applications
+   84  cd/Application.
+   85  pyton3 --verison
+   86  pyton3 --version
+   87  python3 --version
+   88  python3 --version
+   89  python --version
+   90  python3 --version
+   91  mkdir python-crash-course
+   92  cd python-crash-course
+   93  python-crash-course code.
+   94  ~ cd Desktop
+   95  pyton
+   96  list
+   97  python --version
+   98  python--version
+   99  python --version
+  100  python3 --version
+  101  python3
+  102  python3 main.py
+  103  python3 main.py
+  104  python3 main.py
+  105  help
+  106  $ git --version
+  107  cd help
+  108  $ git --version
+  109  help
+  110  -cd help
+  111  cd- help
+  112  git --version
+  113  $ git --version
+  114  пше --мукішщт
+  115  git --verison
+  116  history -c && rm ~/.bash_history
+  117  -c && rm
+  118  history -c && rm ~/.bash_history
+  119  -cd
+  120  -h
+  121  --help
+  122  git --help
+  123  help
+  124  --help
+  125  help--
+  126  ls
+  127  cd Desktop
+  128  claer
+  129  clear
+  130  ls
+  131  HW10/
+  132  ls/HW10
+  133  ls
+  134  homework/
+  135  sudo
+  136  ls
+  137  sudo ls
+  138  homework
+  139  homework/
+  140  sudo ls/homework/
+  141  sudo ls/homework
+  142  sudo ls
+  143  homework
+  144  homework/
+  145  sudo
+  146  sudo -ls/homework/
+  147  ssh-add
+  148  ssh-add
+  149  sudo ssh-add
+  150  ssh-add
+  151  ls
+  152  homework/
+  153  sudo ls/homework
+  154  sudo ls / homework
+  155  ls homework
+  156  ls
+  157  homework
+  158  homework/
+  159  sudo ls / homework
+  160  HW10
+  161  HW10/
+  162  sudo ls / homework / HW10 /
+  163  cd
+  164  cd
+  165  cd
+  166  cd
+  167  touch "text_ignore".txt
+  168  ls
+  169  cd
+  170  --help
+  171  sudo ls / homework / HW10 / touch "text_ignore".txt
+  172  ls
+  173  rm text_ignore.xtx
+  174  rm text_ignore.txt
+  175  ls
+  176  ls
+  177  Desktop /
+  178  Desktop/
+  179  ls / Desktop / homework / HW10
+  180  goit
+  181  cd
+  182  cd goit /
+  183  cd goit
+  184  cd goit/
+  185  ls
+  186  Desktop/
+  187  Desktop
+  188  ls / Desktop / goit
+  189  cd goit / HW10
+  190  goit / HW10
+  191  HW10
+  192  cd/goit/
+  193  cd/ goit/ HW10
+  194  clear
+  195  cd
+  196  ls
+  197  cd / Desktop / goit / HW10 / 
+  198  cd / Desktop
+  199  ls / Desktop / 
+  200  goit
+  201  goit / 
+  202  goit/
+  203  cd/goit
+  204  cd /
+  205  cd / Desktop /
+  206  cd / Desktop
+  207  claer
+  208  clear
+  209  ls / Desktop / Users /
+  210  cd / Users / sergeyalexandrovich / 
+  211  cd / Users / 
+  212  cd / Users
+  213  Desktop
+  214  Desktop/
+  215  cd / Desktop 
+  216  ls / Desktop / Users /sergeyalexandrovich
+  217  clear
+  218  cd / Users / sergeyalexandrovich / Desktop / goit /
+  219  goit/ HW10
+  220  cd ..
+  221  cd/ Users
+  222  cd / Users /<sergeyalexandrovich>/
+  223  ls -l
+  224  help cd
+  225  clear
+  226  cd help
+  227  cd --help
+  228  --help
+  229  cd --help
+  230  man/cd
+  231  man cd
+  232  cd help
+  233  help cd
+  234  --help
+  235  cd
+  236  cd / goit
+  237  cd / goit / HW10 /
+  238  cd/goit/
+  239  cd/HW10
+  240  HW10
+  241  --help
+  242  -help
+  243  help
+  244  cd help
+  245  cd HW_10
+  246  HW_10/
+  247  cd
+  248  ls -l
+  249  ls
+  250  cd goit 
+  251  goit/ HW_10
+  252  -cd
+  253  cd goit
+  254  cd/goit
+  255  cd/desktop/
+  256  cd desktop cd <goit>
+  257  cd desktop
+  258  goit/HW_10
+  259  sudo goit/HW_10
+  260  sudo goit
+  261  goit/
+  262  cd <goit>
+  263  cd goit
+  264  cd HW_10
+  265  touch text_ignore.txt
+  266  ls -l
+  267  chmod 755
+  268  /Users/sergeyalexandrovich 
+  269  ls
+  270  cd Desktop
+  271  cd goit
+  272  cd HW_10
+  273  ls
+  274  cd Desktop
+  275  cd goit
+  276  cd HW_10
+  277  nano .gitignore
+  278  gituser.name klivadenko.serg@gmail.com
+  279  git user.name klivadenko.serg@gmail.com
+  280  git --help
+  281  ls Desktop
+  282  cd goit
+  283  ls
+  284  cd goit
+  285  cd desktop
+  286  cd goit
+  287  cd HW_10
+  288  ls 
+  289  clear
+  290  git config --global user.name
+  291  git config --global user.email
+  292  git config --global user.email klivadenko.serg@gmail.com
+  293  git config --global user.email
+  294  git config --global user.name "Serhii Klivadenko"
+  295  git config --global user.name
+  296  ls
+  297  clear
+  298  ls -l
+  299  ls
+  300  cd..
+  301  ..
+  302  ls
+  303  ls ..
+  304  ls
+  305  cd
+  306  cd..
+  307  cd/
+  308  ..cd
+  309  cd ..
+  310  ls
+  311  cd desktop
+  312  ls
+  313  cd ..
+  314  ls
+  315  cd Users
+  316  ls
+  317  cd sergeyalexandrovich
+  318  ls
+  319  cd Desktop
+  320  ls
+  321  cd goit
+  322  ls
+  323  ls
+  324  git clone https://github.com/callmesergo/HW_10.git
+  325  ls
+  326  cd HW_10
+  327  ls
+  328  touch text_ignore.txt
+  329  ls
+  330  git status
+  331  touch .gitignore
+  332  git add .gitignore
+  333  git commit -m "Add gitignore"
+  334  git push origin main
+  335  nano .gitinore
+  336  git help
+  337  nano .gitignore
+  338  nano .gitignore
+  339  git status
+  340  touch text_ignore.txt
+  341  ls
+  342  git status
+  343  git commit main 
+  344  git commit
+  345  git commit main
+  346  git commit -m "added .gitinore, text_ignore.txt"
+  347  git commit -a
+  348  ls -l
+  349  ls
+  350  cd Desktop
+  351  cd goit
+  352  cd HW_10
+  353  ls -l
+  354  ls
+  355  git help
+  356  git commit
+  357  nano .gitignore
+  358  git status
+  359  git add .gitignore
+  360  git status
+  361  git add .DS_store
+  362  git status
+  363  git loh
+  364  git log
+  365  git config user.email klivadenko.serg@gmail.com
+  366  git log
+  367  history -c && rm ~/.bash_history
+  368  history -c && rm ~/.bash_history
+  369  history -c && rm %/.bash_history
+  370  history -c && rm ~/.bash_history
+  371  history -c
+  372  hictory -c
+  373  history -c
+  374  ~/.bash_history
+  375  history -p
+  376  ls
+  377  cd Desktop
+  378  cd goit
+  379  ls
+  380  git config user.name "Serhii Klivadenko"
+  381  git config --global user.name "Serhii Klivadenko"
+  382  git config --global user.email klivadenko.serg@gmail.com
+  383  git clone https://github.com/callmesergo/HW_10.git
+  384  cd goit
+  385  ls
+  386  cd HW_10
+  387  ls
+  388  touch text_ignore.txt
+  389  ls
+  390  nano .gitignore
+  391  nano .gitignore
+  392  git status
+  393  git add .gitignore
+  394  git commit
+  395  git commit -m "added text_ignore.txt, updated .gitignore"
+  396  touch main_test.txt
+  397  git add main_test.txt
+  398  git commit -m "added main_test.txt"
+  399  git checkout -b new_branch
+  400  git branch -m new_branch develop
+  401  git checkout main
+  402  git branch -m new_branch develop
+  403  git checkout develop
+  404  touch develop_test.txt
+  405  git add develop_test.txt
+  406  git commit -m "added develop_test.txt"
+  407  nano develop_test.txt
+  408  nano develop_test.txt
+  409  git status
+  410  git add develop_test.txt
+  411  git commit -m "updated develop_test.txt"
+  412  git checkout main
+  413  git merge develop
+  414  git log
